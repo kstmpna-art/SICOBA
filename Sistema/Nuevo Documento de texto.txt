@@ -1,0 +1,23 @@
+Las contraseñas iniciales son:
+
+Aeronaves → aire2026
+Buques → naval2026
+Control → control2026
+
+
+https://script.google.com/macros/s/AKfycbwJkKShWZNq4EbObUxfm8MXc_1P5ISW57JzUKT3ocJ8KZ5pev1LlZIhqIUoVxfHCr_1Kw/exec
+
+
+file:///C:/Users/lhbentos/Desktop/Sistema/index.html?action=ping
+
+http://localhost:8000/Desktop/Sistema/index.html
+
+
+https://script.google.com/macros/s/AKfycbwJkKShWZNq4EbObUxfm8MXc_1P5ISW57JzUKT3ocJ8KZ5pev1LlZIhqIUoVxfHCr_1Kw/exec?action=test
+
+https://medios-sarpna.netlify.app/ "vieja"
+
+https://medios-sar.netlify.app/   "nueva"
+
+
+https://netlify.com 
